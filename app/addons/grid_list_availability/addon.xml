@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<addon scheme="2.0">
+    <id>grid_list_availability</id>
+    <name>Grid list product availability</name>
+    <description>Extends the Grid list with core product availability</description>
+    <version>1.0</version>
+    <priority>1</priority>
+    <position>0</position>
+    <status>active</status>
+    <default_language>en</default_language>
+    <language_variables>
+        <item lang="en" id="grid_list_with_availability">Grid list with product availability</item>
+    </language_variables>
+    
+</addon>

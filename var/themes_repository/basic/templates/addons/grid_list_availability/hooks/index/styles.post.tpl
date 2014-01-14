@@ -1,0 +1,1 @@
+{style src="addons/grid_list_availability/styles.css"}
