@@ -17,3 +17,7 @@ Click "Install" button in the Add-on manager
 **3. Set listing**
 
 Go to Settings / Appearance, and enable "Grid list with product availability" list layout. 
+
+**Compatibility**
+
+This Add-on is designed for CS-Cart 4.0.x
